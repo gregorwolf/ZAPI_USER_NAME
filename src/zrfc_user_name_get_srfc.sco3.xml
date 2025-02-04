@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_SCO3" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <SCO3>
+    <OBS_ID>ZRFC_USER_NAME_GET_SRFC</OBS_ID>
+    <OBS_TYPE>SRFC</OBS_TYPE>
+    <RFC_SERVICE_ID>USER_NAME_GET</RFC_SERVICE_ID>
+    <ABAP_LANGUAGE_VERSION>5</ABAP_LANGUAGE_VERSION>
+    <NAME>ZRFC_USER_NAME_GET_SRFC</NAME>
+    <TYPE>SCO3</TYPE>
+    <DESCRIPTION>RFC USER_NAME_GET</DESCRIPTION>
+    <ABAP_LANGU_VERSION>5</ABAP_LANGU_VERSION>
+   </SCO3>
+  </asx:values>
+ </asx:abap>
+</abapGit>
